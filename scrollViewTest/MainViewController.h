@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainViewController.h
 //  scrollViewTest
 //
 //  Created by echo on 16/9/11.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainViewController : UIViewController
 
 @end
-
